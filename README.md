@@ -1,4 +1,4 @@
-# _Pig Latin Translator_
+# _NAME OF APPLICATION (CHANGE OUT ALL TEXT)_
 
 #### _Translates words to Pig Latin, 9.20.2017_
 
